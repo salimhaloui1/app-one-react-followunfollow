@@ -27,3 +27,54 @@ Ensuite, dans le dossier du projet :
 npm install
 
 Cette commande lit le fichier package.json et installe toutes les dépendances nécessaires dans le dossier node_modules.
+
+✅ 3. Lancer l’application en développement
+
+Toujours dans le dossier du projet :
+
+npm run dev
+
+ou parfois :
+
+npm start
+
+Ça dépend de ce qui est configuré dans le fichier package.json. Si dev ne fonctionne pas, regarde ce fichier pour voir la bonne commande.
+
+✅ 4. Accéder à l’application
+
+Une fois lancée, tu verras quelque chose comme :
+
+VITE v5.0.0  ready in 300 ms
+
+➜  Local:   http://localhost:5173/
+
+Ouvre ce lien dans ton navigateur.
+
+✅ 5. Résolution des erreurs courantes
+
+Si tu as une erreur comme :
+
+Error: Cannot find module</br>
+→ Une dépendance manquante ? Refaire npm install.
+
+vite: command not found </br>
+→ Peut-être qu’il faut installer Vite globalement :
+
+npm install -g vite </br>
+Erreur liée à node-sass ou autre </br>
+→ Parfois, il faut supprimer node_modules et refaire l'installation :
+
+rm -rf node_modules</br>
+npm install
+
+✅ En résumé rapide :
+
+# 1. Aller dans le dossier
+cd nom-du-projet
+
+# 2. Installer les dépendances
+npm install
+
+# 3. Lancer le projet
+npm run dev     # ou npm start
+
