@@ -6,9 +6,9 @@ Un petit composant de profil utilisateur avec un bouton pour changer l'état ("F
 
 ✅ 1. Télécharger ou cloner le projet
 
-Si tu as un fichier .zip :
+Si tu as un fichier .zip :</br>
 Décompresse-le dans un dossier de ton choix.
 
 Si tu as un lien GitHub :</br>
-git clone https://github.com/salimhaloui1/app-one-react-followunfollow.git
+git clone https://github.com/salimhaloui1/app-one-react-followunfollow.git </br>
 cd nom-du-projet
