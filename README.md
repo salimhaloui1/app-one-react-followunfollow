@@ -9,6 +9,6 @@ Un petit composant de profil utilisateur avec un bouton pour changer l'état ("F
 Si tu as un fichier .zip :
 Décompresse-le dans un dossier de ton choix.
 
-Si tu as un lien GitHub :
+Si tu as un lien GitHub :</br>
 git clone https://github.com/salimhaloui1/app-one-react-followunfollow.git
 cd nom-du-projet
