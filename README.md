@@ -1,5 +1,4 @@
-# Application Follow / Unfollow Avaec 
-# React/Javascript - Vite
+# Application Follow / Unfollow Avec React/Js - Vite
 
 Un petit composant de profil utilisateur avec un bouton pour changer l'état ("Follow" / "Unfollow").
 
