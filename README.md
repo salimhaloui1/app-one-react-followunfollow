@@ -1,12 +1,14 @@
-# React + Vite
+# Application Follow / Unfollow Avaec React/Javascript - Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un petit composant de profil utilisateur avec un bouton pour changer l'état ("Follow" / "Unfollow").
 
-Currently, two official plugins are available:
+# Pour démarrer cette application en local , Voici les instructions à faire :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ 1. Télécharger ou cloner le projet
 
-## Expanding the ESLint configuration
+Si tu as un fichier .zip :
+Décompresse-le dans un dossier de ton choix.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Si tu as un lien GitHub :
+git clone https://github.com/salimhaloui1/app-one-react-followunfollow.git
+cd nom-du-projet
