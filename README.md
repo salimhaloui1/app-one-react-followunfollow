@@ -2,6 +2,8 @@
 
 Un petit composant de profil utilisateur avec un bouton pour changer l'état ("Follow" / "Unfollow").
 
+![Image](https://github.com/user-attachments/assets/f88e1734-7d79-488a-a0eb-f47480be7c1c)
+
 # Pour démarrer cette application en local , Voici les instructions à faire :
 
 ✅ 1. Télécharger ou cloner le projet
